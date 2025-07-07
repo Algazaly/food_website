@@ -25,6 +25,17 @@ import food_13 from './food_13.jpeg'
 import food_14 from './food_14.jpeg'
 import food_15 from './food_15.jpeg'
 import food_16 from './food_16.jpeg'
+import add_icon from './add_icon.png'
+import sub_icon from './sub_icon.png'
+import star_rating from './star_rating.png'
+import facebook_icon from './facebook_icon.png'
+import twitter_icon from './twitter_icon.png'
+import linkedin_icon from './linkedin_icon.png'
+import play_store1 from './play_store1.png'
+import apple_store1 from './apple_store1.png'
+import cross_icon from './cross_icon.png'
+
+
 
 
 
@@ -33,6 +44,15 @@ export const assets = {
     basket_icon,
     search_icon,
     Tomato,
+    sub_icon,
+    add_icon,
+    star_rating,
+    facebook_icon,
+    twitter_icon,
+    linkedin_icon,
+    play_store1,
+    apple_store1,
+    cross_icon,
 
 }
 
